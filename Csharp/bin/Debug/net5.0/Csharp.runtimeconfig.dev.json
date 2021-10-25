@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\DINTER-PPGEFHC-IFBA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\DINTER-PPGEFHC-IFBA\\.nuget\\packages"
+    ]
+  }
+}
